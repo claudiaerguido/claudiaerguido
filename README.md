@@ -38,7 +38,6 @@ Diseño y desarrollo de la página web de la empresa Solventa (en desarrollo).
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [jupyter_notebooks_ia](https://github.com/claudiaerguido/jupyter_notebooks_ia) | Notebooks de fundamentos de Machine Learning e Inteligencia Artificial | Python, Jupyter |
-| [tres_en_raya](https://github.com/claudiaerguido/tres_en_raya) | Tres en raya con IA | Python |
 
 **Desarrollo Web**
 
@@ -46,7 +45,6 @@ Diseño y desarrollo de la página web de la empresa Solventa (en desarrollo).
 |---|---|---|
 | [Ejercicios_WEBII](https://github.com/claudiaerguido/Ejercicios_WEBII) | Ejercicios de la asignatura Sistemas Web II | JavaScript |
 | [ejercicios-web-node](https://github.com/claudiaerguido/ejercicios-web-node) | Ejercicios de la asignatura Sistemas Web I | HTML |
-| [practicas-web](https://github.com/claudiaerguido/practicas-web) | Prácticas de desarrollo web | JavaScript |
 | [html-ejercicio-clase](https://github.com/claudiaerguido/html-ejercicio-clase) | Ejercicio de clase en HTML | HTML |
 | [examenpet](https://github.com/claudiaerguido/examenpet) | Examen práctico | HTML |
 | [pruebapagina](https://github.com/claudiaerguido/pruebapagina) | Página de pruebas | HTML |
@@ -64,12 +62,6 @@ Diseño y desarrollo de la página web de la empresa Solventa (en desarrollo).
 | [Practica_ISO](https://github.com/claudiaerguido/Practica_ISO) | Práctica de la asignatura ISO | — |
 
 ---
-
-### Actividad
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=claudiaerguido&show_icons=true&theme=default" alt="Estadísticas de GitHub de Claudia"/>
-</p>
 
 ---
 
