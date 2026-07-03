@@ -1,8 +1,8 @@
 <h1 align="center">Claudia Erguido</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/claudiaerguido/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:claudiaerguido@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 ### Proyectos destacados
 
+**[TFG-WhySoSerious — Observatorio de riesgo psicosocial con NLP](https://github.com/claudiaerguido/TFG-WhySoSerious)**
+Trabajo de Fin de Grado: sistema de análisis de mensajes de Microsoft Teams mediante NLP para detectar indicadores de burnout y estrés laboral, con generación de datos sintéticos y clasificación de texto.
+`Python` `NLP` `Machine Learning`
+
 **[Solventa — Página web corporativa](https://github.com/claudiaerguido/ingenieros-consultores-web-pro-af94fec1)**
 Diseño y desarrollo de la página web de la empresa Solventa (en desarrollo).
 `React`
@@ -33,7 +37,6 @@ Diseño y desarrollo de la página web de la empresa Solventa (en desarrollo).
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [TFG-WhySoSerious](https://github.com/claudiaerguido/TFG-WhySoSerious) | Observatorio de riesgo psicosocial: análisis de mensajes de Microsoft Teams con NLP para detectar indicadores de burnout y estrés laboral | Python, NLP |
 | [jupyter_notebooks_ia](https://github.com/claudiaerguido/jupyter_notebooks_ia) | Notebooks de fundamentos de Machine Learning e Inteligencia Artificial | Python, Jupyter |
 | [tres_en_raya](https://github.com/claudiaerguido/tres_en_raya) | Tres en raya con IA | Python |
 
